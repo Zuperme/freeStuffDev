@@ -2,10 +2,10 @@
 title: Aikido
 link: https://aikido.dev/
 thumbnail: >-
-  https://assets-global.website-files.com/642adcaf364024552e71df01/642be4db4ebe9867ff9d1350_android-chrome-256x256.png
+  https://assets-global.website-files.com/642adcaf364024552e71df01/642adeabebcd3ce2071e7283_aikido-favicon.png
 snippet: >-
-  Discover vulnerabilities and security issues with Aikidos all-in-one AppSec
-  platform. Start free and get your web app secured in 2 minutes.
+  Secure your code, cloud, and containers with Aikido's all-in-one AppSec
+  platform. Start free.
 tags: ["security"]
 createdAt: 2024-01-26T00:00:00.000Z
 ---
